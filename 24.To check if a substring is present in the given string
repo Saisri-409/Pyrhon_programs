@@ -1,0 +1,3 @@
+a='saisri'
+if('a' in a):
+   print('yes')
